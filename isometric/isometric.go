@@ -2,6 +2,6 @@ package isometric
 
 import "fmt"
 
-func run() {
+func Run() {
 	fmt.Println("running")
 }
