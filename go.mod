@@ -1,4 +1,4 @@
-module example/Isometric-Game-of-Life
+module github.com/Jibble330/Isometric-Game-of-Life
 
 go 1.18
 
